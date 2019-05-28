@@ -1918,7 +1918,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			box-shadow: none;
-			background-color: #4ea3d8;
+			background-color: #5e54e7;
 			color: #ffffff !important;
 		}
 
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			#banner button.primary,
 			#banner .button.primary {
 				box-shadow: none;
-				background-color: #4ea3d8;
+				background-color: #5e54e7;
 				color: #ffffff !important;
 			}
 
