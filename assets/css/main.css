@@ -1959,7 +1959,7 @@ input, select, textarea {
 			border-radius: 4px;
 			margin: 1em 0 0 1em;
 			text-align: center;
-			width: calc(33.33333% - 1em);
+			width: calc(20% - 1em);
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2251,17 +2251,17 @@ input, select, textarea {
 		}
 
 		.icon.major {
-			-moz-transform: rotate(45deg);
+			/* -moz-transform: rotate(45deg);
 			-webkit-transform: rotate(45deg);
 			-ms-transform: rotate(45deg);
-			transform: rotate(45deg);
+			transform: rotate(45deg); */
 			border-radius: 4px;
-			border: solid 1px;
+			/* border: solid 1px; */
 			display: block;
-			font-size: 1.75em;
+			font-size: 2em;
 			height: 2.5em;
 			line-height: 2.5em;
-			margin: 0 auto 2em auto;
+			margin: auto;
 			position: relative;
 			text-align: center;
 			top: 0.5em;
@@ -2269,10 +2269,10 @@ input, select, textarea {
 		}
 
 			.icon.major:before {
-				-moz-transform: rotate(-45deg);
+				/* -moz-transform: rotate(-45deg);
 				-webkit-transform: rotate(-45deg);
 				-ms-transform: rotate(-45deg);
-				transform: rotate(-45deg);
+				transform: rotate(-45deg); */
 				display: block;
 				text-align: center;
 			}
