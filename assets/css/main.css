@@ -2233,13 +2233,11 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
-		position: relative;
 	}
 
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2254,14 +2252,14 @@ input, select, textarea {
 			-webkit-transform: rotate(45deg);
 			-ms-transform: rotate(45deg);
 			transform: rotate(45deg); */
-			border-radius: 4px;
-			/* border: solid 1px; */
+			/* border-radius: 4px;
+			border: solid 1px; */
 			display: block;
-			font-size: 2em;
+			font-size: 1.5em;
 			height: 2.5em;
 			line-height: 2.5em;
 			margin: auto;
-			position: relative;
+			/* position: relative; */
 			text-align: center;
 			top: 0.5em;
 			width: 2.5em;
