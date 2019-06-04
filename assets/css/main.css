@@ -2460,6 +2460,7 @@ input, select, textarea {
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
+			color: #707070;
 		}
 
 			ul.alt li {
